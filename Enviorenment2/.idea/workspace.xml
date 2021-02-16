@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88114c76-89c7-45b8-8c06-937944daba04" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1651869471">
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conflicResolution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/environment2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Enviorenment3/Enviorenment3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2505">
+              <caret line="171" column="28" selection-start-line="171" selection-start-column="28" selection-end-line="171" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Enviorenment3/CR_Heading_Angle_PPO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Paper Experiments/Ex2_Heading_Continuous/SSD-DRL-PPO-continuous-action3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="47" column="34" selection-start-line="54" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Paper Experiments/Ex1_Heading_Descret/pong_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="256" column="31" lean-forward="true" selection-start-line="256" selection-start-column="31" selection-end-line="256" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enviorenment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1545">
+              <caret line="106" column="23" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pixel</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/simpleExmp.py" />
+        <option value="$PROJECT_DIR$/../Enviorenment3/CR_Heading_Angle_PPO.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="973" />
+  </component>
+  <component name="ProjectId" id="1XY8Bm2LvMiJFAuB09xfoWDfbYP" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.CR_Heading_Angle_PPO">
+    <configuration name="CR_Heading_Angle_PPO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Enviorenment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Enviorenment3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Enviorenment3/CR_Heading_Angle_PPO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Enviorenment3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Enviorenment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Enviorenment3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Enviorenment3/Enviorenment3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conflictResolution_PPO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Enviorenment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\PENG\Anaconda3\envs\Enviorenment2\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conflictResolution_PPO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="enviorenment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Enviorenment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/enviorenment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pong_PPO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Enviorenment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pong_PPO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.enviorenment" />
+      <item itemvalue="Python.conflictResolution_PPO" />
+      <item itemvalue="Python.pong_PPO" />
+      <item itemvalue="Python.Enviorenment3" />
+      <item itemvalue="Python.CR_Heading_Angle_PPO" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CR_Heading_Angle_PPO" />
+        <item itemvalue="Python.CR_Heading_Angle_PPO" />
+        <item itemvalue="Python.Enviorenment3" />
+        <item itemvalue="Python.enviorenment" />
+        <item itemvalue="Python.pong_PPO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88114c76-89c7-45b8-8c06-937944daba04" name="Default Changelist" comment="" />
+      <created>1581050293282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581050293282</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="973" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39930955" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32911393" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1686" y="186" key="#conflicResolution" timestamp="1581702136490">
+      <screen x="65" y="24" width="4415" height="1056" />
+    </state>
+    <state x="752" y="171" key="#conflicResolution/0.0.2048.1112@0.0.2048.1112" timestamp="1581211610568" />
+    <state x="1686" y="186" key="#conflicResolution/65.24.4415.1056@65.24.4415.1056" timestamp="1581702136490" />
+    <state x="752" y="171" key="#conflictResolution_PPO" timestamp="1582079803632">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="752" y="171" key="#conflictResolution_PPO/0.0.2048.1112@0.0.2048.1112" timestamp="1582079803632" />
+    <state x="1264" y="174" key="#pong_PPO" timestamp="1582080178888">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1264" y="174" key="#pong_PPO/0.0.2048.1112@0.0.2048.1112" timestamp="1582080178888" />
+    <state width="1682" height="568" key="DebuggerActiveHint" timestamp="1581746360174">
+      <screen x="65" y="24" width="4415" height="1056" />
+    </state>
+    <state width="1682" height="568" key="DebuggerActiveHint/65.24.4415.1056@65.24.4415.1056" timestamp="1581746360174" />
+    <state x="759" y="318" key="EnvironmentVariablesDialog" timestamp="1581211598519">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="759" y="318" key="EnvironmentVariablesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1581211598519" />
+    <state x="3340" y="226" key="FileChooserDialogImpl" timestamp="1581705046163">
+      <screen x="65" y="24" width="4415" height="1056" />
+    </state>
+    <state x="3340" y="226" key="FileChooserDialogImpl/65.24.4415.1056@65.24.4415.1056" timestamp="1581705046163" />
+    <state width="2027" height="376" key="GridCell.Tab.0.bottom" timestamp="1582080337775">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1582080337775" />
+    <state width="1832" height="365" key="GridCell.Tab.0.bottom/65.24.4415.1056@65.24.4415.1056" timestamp="1581749048042" />
+    <state width="2027" height="376" key="GridCell.Tab.0.center" timestamp="1582080337775">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1582080337775" />
+    <state width="1832" height="365" key="GridCell.Tab.0.center/65.24.4415.1056@65.24.4415.1056" timestamp="1581749048041" />
+    <state width="2027" height="376" key="GridCell.Tab.0.left" timestamp="1582080337775">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1582080337775" />
+    <state width="1832" height="365" key="GridCell.Tab.0.left/65.24.4415.1056@65.24.4415.1056" timestamp="1581749048041" />
+    <state width="2027" height="376" key="GridCell.Tab.0.right" timestamp="1582080337775">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1582080337775" />
+    <state width="1832" height="365" key="GridCell.Tab.0.right/65.24.4415.1056@65.24.4415.1056" timestamp="1581749048042" />
+    <state width="2027" height="376" key="GridCell.Tab.1.bottom" timestamp="1582080337775">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1582080337775" />
+    <state width="1832" height="365" key="GridCell.Tab.1.bottom/65.24.4415.1056@65.24.4415.1056" timestamp="1581749048042" />
+    <state width="2027" height="376" key="GridCell.Tab.1.center" timestamp="1582080337775">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1582080337775" />
+    <state width="1832" height="365" key="GridCell.Tab.1.center/65.24.4415.1056@65.24.4415.1056" timestamp="1581749048042" />
+    <state width="2027" height="376" key="GridCell.Tab.1.left" timestamp="1582080337775">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1582080337775" />
+    <state width="1832" height="365" key="GridCell.Tab.1.left/65.24.4415.1056@65.24.4415.1056" timestamp="1581749048042" />
+    <state width="2027" height="376" key="GridCell.Tab.1.right" timestamp="1582080337775">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1582080337775" />
+    <state width="1832" height="365" key="GridCell.Tab.1.right/65.24.4415.1056@65.24.4415.1056" timestamp="1581749048042" />
+    <state x="1067" y="85" key="SettingsEditor" timestamp="1582085992916">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1067" y="85" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1582085992916" />
+    <state x="3046" y="105" key="SettingsEditor/65.24.4415.1056@65.24.4415.1056" timestamp="1581703186508" />
+    <state width="1247" height="542" key="XDebugger.FullValuePopup" timestamp="1581745055394">
+      <screen x="65" y="24" width="4415" height="1056" />
+    </state>
+    <state width="1247" height="542" key="XDebugger.FullValuePopup/65.24.4415.1056@65.24.4415.1056" timestamp="1581745055394" />
+    <state x="726" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582089112901">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="726" y="380" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1582089112901" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/conflicResolution.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/simpleExmp.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_import_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="3266" selection-start-line="3266" selection-end-line="3266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/gym/envs/atari/atari_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conflicResolution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Enviorenment3/Enviorenment3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2505">
+          <caret line="171" column="28" selection-start-line="171" selection-start-column="28" selection-end-line="171" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enviorenment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="106" column="23" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Enviorenment3/CR_Heading_Angle_PPO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paper Experiments/Ex2_Heading_Continuous/SSD-DRL-PPO-continuous-action3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="47" column="34" selection-start-line="54" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Paper Experiments/Ex1_Heading_Descret/pong_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="256" column="31" lean-forward="true" selection-start-line="256" selection-start-column="31" selection-end-line="256" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
